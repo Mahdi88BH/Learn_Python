@@ -1,0 +1,1 @@
+"""Bid Application Practice Blind Auction"""
